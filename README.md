@@ -4,7 +4,7 @@
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 <br>
-|CLASSIFICAÇÃO DE IMAGENS|AINDA NÃO ESCOLHI|PYTORCH|
+|CLASSIFICAÇÃO DE IMAGENS|MobileNetv2|PYTORCH|
 
 ## Performance
 ![PERFORMACE] (https://raw.githubusercontent.com/luizhenriqueengenheiro/avalizacaoFinalRedesNeurais/main/performace.png)
