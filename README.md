@@ -7,7 +7,7 @@
 |CLASSIFICAÇÃO DE IMAGENS|AINDA NÃO ESCOLHI|PYTORCH|
 
 ## Performance
-PERFORMACE DO PROJETO NO NOOTEBOOK COLAB AINDA NÃO ESTABELECIDA, POIS O NOTEBOOK AINDA NÃO FOI CRIADO.
+![GRAFICO DE TREINAMENTO] (https://raw.githubusercontent.com/luizhenriqueengenheiro/avalizacaoFinalRedesNeurais/main/performace.png)
 
 
 ### Output do bloco de treinamento
