@@ -7,7 +7,7 @@
 |CLASSIFICAÇÃO DE IMAGENS|AINDA NÃO ESCOLHI|PYTORCH|
 
 ## Performance
-![GRAFICO DE TREINAMENTO] (https://raw.githubusercontent.com/luizhenriqueengenheiro/avalizacaoFinalRedesNeurais/main/performace.png)
+![PERFORMACE] (https://raw.githubusercontent.com/luizhenriqueengenheiro/avalizacaoFinalRedesNeurais/main/performace.png)
 
 
 ### Output do bloco de treinamento
