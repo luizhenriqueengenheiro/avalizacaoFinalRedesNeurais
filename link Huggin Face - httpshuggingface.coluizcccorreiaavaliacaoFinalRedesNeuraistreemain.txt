@@ -1,0 +1,3 @@
+https://huggingface.co/luizcccorreia/avaliacaoFinalRedesNeurais/tree/main
+
+luizcccorreia/avaliacaoFinalRedesNeurais
